@@ -1,0 +1,17 @@
+.category_main_container {
+  &-title {
+    text-align: center;
+    h1 {
+      text-align: center;
+      color: rgb(117, 114, 114);
+    }
+  }
+
+  &-categoryBox {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: center;
+  }
+}
